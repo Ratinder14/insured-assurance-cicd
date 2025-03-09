@@ -1,1 +1,1 @@
-# insured-assurance-java-app
+# insured-assurance-cicd
