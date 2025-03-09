@@ -22,7 +22,7 @@ jobs:
     - name: Build with Maven
       run: mvn -B package --file pom.xml
       
-    - - name: Archive production artifacts
+    - name: Archive production artifacts
   uses: actions/upload-artifact@v4
   with:
     name: insured-assurance-war
